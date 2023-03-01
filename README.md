@@ -14,7 +14,7 @@ Los resultados están disponibles a través de una **API** para que los usuarios
 > [https://teamproject-1-p7026804.deta.app/prediccion/AFG/2025](https://teamproject-1-p7026804.deta.app/prediccion/AFG/2025)
 
 ***Colaboradores***:
-+ Valentino Muchino / [https://www.linkedin.com/in/valentinomuchino/](https://www.linkedin.com/in/valentinomuchino/)
++ Valentino Muchino / [Linkedin](https://www.linkedin.com/in/valentinomuchino/)
 + Sheila Francisco / [https://www.linkedin.com/in/sheila-francisco/](Linkedin)
 + Carlos Trejo / [https://www.linkedin.com/in/charlytrejo ](Linkedin)
 + Omarly Zerpa / [https://www.linkedin.com/in/omarly-zerpa-73b0b315b/](Linkedin)
