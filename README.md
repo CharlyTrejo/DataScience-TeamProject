@@ -1,2 +1,0 @@
-# DataScience-TeamProject
-Flujos migratorios
