@@ -11,7 +11,7 @@ Los resultados están disponibles a través de una **API** para que los usuarios
 <image src="/src/diagrama_proyecto.jpg" alt="Diagrama del proyecto" border="8px solid black">
 
 ***Link API***:
-> [https://teamproject-1-p7026804.deta.app/prediccion/AFG/2025](https://teamproject-1-p7026804.deta.app/prediccion/AFG/2025)
+> [https://teamproject-1-p7026804.deta.app/docs](https://teamproject-1-p7026804.deta.app/docs)
 
 ***Colaboradores***:
 + Valentino Muchino / [Linkedin](https://www.linkedin.com/in/valentinomuchino/)
