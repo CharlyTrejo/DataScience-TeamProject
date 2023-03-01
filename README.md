@@ -15,7 +15,7 @@ Los resultados están disponibles a través de una **API** para que los usuarios
 
 ***Colaboradores***:
 + Valentino Muchino / [Linkedin](https://www.linkedin.com/in/valentinomuchino/)
-+ Sheila Francisco / [https://www.linkedin.com/in/sheila-francisco/](Linkedin)
-+ Carlos Trejo / [https://www.linkedin.com/in/charlytrejo ](Linkedin)
-+ Omarly Zerpa / [https://www.linkedin.com/in/omarly-zerpa-73b0b315b/](Linkedin)
-+ Julián Agudelo / [https://www.linkedin.com/in/julian-agudelo-b583991b4/](Linkedin)
++ Sheila Francisco / [Linkedin](https://www.linkedin.com/in/sheila-francisco/)
++ Carlos Trejo / [Linkedin](https://www.linkedin.com/in/charlytrejo)
++ Omarly Zerpa / [Linkedin](https://www.linkedin.com/in/omarly-zerpa-73b0b315b/)
++ Julián Agudelo / [Linkedin](https://www.linkedin.com/in/julian-agudelo-b583991b4/)
