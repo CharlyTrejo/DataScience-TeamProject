@@ -8,4 +8,4 @@ Se desarrolló un pipeline de datos en la nube utilizando **AWS**, un dashboard 
 Los resultados están disponibles a través de una **API** para que los usuarios puedan consultar las predicciones sin necesidad de ejecutar código.
 
 ***Diagrama del proyecto***:
-<image src="/src/diagrama_proyecto.jpg" alt="Diagrama del proyecto" border="5px solid black">
+<image src="/src/diagrama_proyecto.jpg" alt="Diagrama del proyecto" border="8px solid black">
