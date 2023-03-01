@@ -9,3 +9,13 @@ Los resultados están disponibles a través de una **API** para que los usuarios
 
 ***Diagrama del proyecto***:
 <image src="/src/diagrama_proyecto.jpg" alt="Diagrama del proyecto" border="8px solid black">
+
+***Link API***:
+> [https://teamproject-1-p7026804.deta.app/prediccion/AFG/2025](https://teamproject-1-p7026804.deta.app/prediccion/AFG/2025)
+
+***Colaboradores***:
++ Valentino Muchino / [https://www.linkedin.com/in/valentinomuchino/](Linkedin)
++ Sheila Francisco / [https://www.linkedin.com/in/sheila-francisco/](Linkedin)
++ Carlos Trejo / [https://www.linkedin.com/in/charlytrejo ](Linkedin)
++ Omarly Zerpa / [https://www.linkedin.com/in/omarly-zerpa-73b0b315b/](Linkedin)
++ Julián Agudelo / [https://www.linkedin.com/in/julian-agudelo-b583991b4/](Linkedin)
